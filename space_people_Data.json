@@ -1,0 +1,23 @@
+[
+  {
+    "name": "bob",
+    "health": 100,
+    "power": 250,
+    "can eat pizza": "yes",
+    "can eat mint": "no"
+  },
+  {
+    "name": "Millie",
+    "health": 45,
+    "power": 38,
+    "can eat pizza": "yes",
+    "can eat mint": "yes"
+  },
+  {
+    "name": "Adouron",
+    "health": 68,
+    "power": 89,
+    "can eat pizza": "no",
+    "can eat mint": "no"
+  }
+]
